@@ -1,0 +1,8 @@
+
+Parse error: syntax error, unexpected 'echo' (T_ECHO) in /home/OFICINAS/carlos.sanchez/katas/gilded-rose-kata/src/GildedRose/Console/Program.php on line 55
+
+Call Stack:
+    0.0002     221200   1. {main}() /home/OFICINAS/carlos.sanchez/katas/gilded-rose-kata/bin/console:0
+    0.0042     408408   2. Composer\Autoload\ClassLoader->loadClass() /home/OFICINAS/carlos.sanchez/katas/gilded-rose-kata/bin/console:0
+    0.0043     409064   3. Composer\Autoload\includeFile() /home/OFICINAS/carlos.sanchez/katas/gilded-rose-kata/vendor/composer/ClassLoader.php:269
+
