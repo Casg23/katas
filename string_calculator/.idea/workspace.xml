@@ -26,7 +26,7 @@
       <file leaf-file-name="Calculator.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Kata/Calculator.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.19977802" vertical-offset="0" max-vertical-offset="901">
+            <state line="33" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.6592675" vertical-offset="0" max-vertical-offset="901">
               <folding />
             </state>
           </provider>
@@ -244,7 +244,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Kata/Calculator.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="168" selection-end="168" vertical-scroll-proportion="0.19977802" vertical-offset="0" max-vertical-offset="901">
+        <state line="33" column="0" selection-start="872" selection-end="872" vertical-scroll-proportion="0.6592675" vertical-offset="0" max-vertical-offset="901">
           <folding />
         </state>
       </provider>
